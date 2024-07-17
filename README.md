@@ -14,11 +14,11 @@ I hold a Master's degree from INRS, University of Quebec, where I conducted exte
 - **Tools & Libraries**: Express, React, Node.js, Redux, Web3, Ether.js, MongoDB, Hardhat, Firebase, Pytorch, Flask, Docker
 
 ## 📂 Projects
-### [Bonsai Exchange](https://github.com/duyhung2201/bonsai-exchange)
+### [Bonsai Exchange](https://devpost.com/software/bonsai-exchange)
 - Developed an NFT game and marketplace on the ICON blockchain.
 - Leveraged React.js and Redux for the frontend and Python, Solidity, JavaScript for smart contract functionality.
 
-### [Hockey Prediction](https://github.com/duyhung2201/Hockey-prediction)
+### [Hockey Prediction](https://duyhung2201.github.io/Hockey-prediction/)
 - Developed an end-to-end hockey prediction system using Pandas, logistic regression, Random Forest, and XGBoost.
 - Created an interactive interface using Streamlit, Flask, Docker, and GCP for real-time match predictions.
 
