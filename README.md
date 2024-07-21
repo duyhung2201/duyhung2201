@@ -26,4 +26,6 @@ I hold a Master's degree from INRS, University of Quebec, where I conducted exte
 - **Email**: duyhung2201@gmail.com
 - **LinkedIn**: [Hung Le](https://www.linkedin.com/in/duyhung-le)
 
+<!---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duyhung2201&show_icons=true&theme=radical)
+-->
